@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
