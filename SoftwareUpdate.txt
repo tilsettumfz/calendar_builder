@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
