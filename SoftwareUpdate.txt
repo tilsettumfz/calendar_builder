@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update fraction arg to employ a random selection (#8234)
