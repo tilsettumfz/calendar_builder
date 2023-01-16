@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
