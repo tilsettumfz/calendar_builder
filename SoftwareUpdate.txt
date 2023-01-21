@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
