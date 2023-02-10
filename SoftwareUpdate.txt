@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add horizontal Mosaic3 augmentation (#6898)
