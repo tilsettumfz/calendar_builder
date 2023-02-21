@@ -1,1 +1,1 @@
-Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
