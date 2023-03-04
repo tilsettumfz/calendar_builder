@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
