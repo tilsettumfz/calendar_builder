@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
