@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
