@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
