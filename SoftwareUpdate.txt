@@ -1,1 +1,1 @@
-ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
+Fix RTDETR generate anchor grid out of boundary (#7247)
