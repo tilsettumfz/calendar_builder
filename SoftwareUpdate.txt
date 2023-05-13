@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Fix RTDETR generate anchor grid out of boundary (#7247)
