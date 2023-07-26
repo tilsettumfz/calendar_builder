@@ -1,1 +1,1 @@
-Add integrations/gradio Docs page (#7935)
+Mkdocs updates (#8008)
