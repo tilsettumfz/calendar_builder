@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
