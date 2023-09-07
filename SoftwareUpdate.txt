@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
