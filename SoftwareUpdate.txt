@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Docs partial mdformat improvements (#7378)
