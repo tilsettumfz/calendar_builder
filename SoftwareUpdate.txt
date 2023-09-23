@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Add missing Explorer docs reference pages (#7455)
