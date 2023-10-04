@@ -1,1 +1,1 @@
-fix predict with class filter
+Add distance calculation feature in vision-eye (#8616)
