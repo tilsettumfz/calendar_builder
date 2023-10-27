@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
