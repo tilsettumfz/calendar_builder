@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
