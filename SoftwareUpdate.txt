@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add simple-utilities.md Docs page (#8269)
