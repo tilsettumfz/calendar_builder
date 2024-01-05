@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Compress docs images (#8124)
