@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+Add new YOLOv8 OBB model metrics (#7379)
