@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
