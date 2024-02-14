@@ -1,1 +1,1 @@
-Update README.md
+Merge pull request #22 from SkalskiP/patch-1
