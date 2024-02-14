@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add YOLOv8 LibTorch C++ inference example (#7090)
