@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Fix IS_PYTHON_3_12 bug (#9258)
