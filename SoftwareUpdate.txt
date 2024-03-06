@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Add visuals in guides/distance-calculation.md (#7876)
