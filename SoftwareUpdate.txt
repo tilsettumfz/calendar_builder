@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add HUB-SDK Docs reference section (#7781)
