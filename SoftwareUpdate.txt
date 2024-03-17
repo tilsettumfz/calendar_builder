@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add dota8.yaml and O tests (#7394)
