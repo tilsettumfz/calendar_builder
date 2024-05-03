@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add horizontal Mosaic3 augmentation (#6898)
