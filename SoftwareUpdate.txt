@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Feature: Create HUB Models from CLI or Python Script (#7316)
