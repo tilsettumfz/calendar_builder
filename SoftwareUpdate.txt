@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
