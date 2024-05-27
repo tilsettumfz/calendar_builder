@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
